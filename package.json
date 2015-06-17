@@ -1,0 +1,19 @@
+{
+  "name": "write-script",
+  "version": "0.0.1",
+  "description": "Writes a script tag to the document.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zkochan/write-script.git"
+  },
+  "author": "Zoltan Kochan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zkochan/write-script/issues"
+  },
+  "homepage": "https://github.com/zkochan/write-script#readme"
+}
