@@ -1,5 +1,7 @@
 'use strict';
 
 module.exports = function(url) {
-  document.write('<script src="' + url + '"></script>');
+  var script = document.createElement('script');
+  script.src = url;
+  document.write(script.outerHTML);
 };
