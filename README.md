@@ -1,6 +1,7 @@
 # write-script
 
-Writes a script tag to the document.
+Writes a script tag to the document if the document is loading or inserts a
+script tag in case the document finished loading.
 
 [![Dependency Status](https://david-dm.org/zkochan/write-script/status.svg?style=flat)](https://david-dm.org/zkochan/write-script)
 [![Build Status](https://travis-ci.org/zkochan/write-script.svg?branch=master)](https://travis-ci.org/zkochan/write-script)
